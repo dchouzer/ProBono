@@ -1,4 +1,4 @@
 # ProBono
-No pull request.
-Not sure why this is the end of the line.
-Trying to perform a merge request now. I hope this works. :(
+Application to allow lawyers easy access to pro-bono cases if they desire. The application will have archives, categories for pending cases, and submission forms for various types of cases.
+
+
